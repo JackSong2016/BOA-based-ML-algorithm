@@ -1,2 +1,4 @@
 # BOA-based-ML-algorithm
-Bayesian optimization has been proven as an effective tool in accelerating scientific discovery which can be used to adjust the super parameters in machine learning algorithms. Here  are some applications of Bayesian Optimization to adjust the super parameters in machine learning algorithms,such as Random forest algorithm，Support vector machine algorithm and Multi layer perceptron algorithm.After Bayesian optimization, the optimal value of super parameter is obtained，the fitting between the predicted value and the actual value is drawn.
+Bayesian optimization is widely used optimize multi-parameters systems, which accelerates scientific discovery of materials and system design. Particularly, it can also be used to optimize the complicated hyperparameters in machine learning algorithms. Here is one example application HDH system of Bayesian Optimization to optimize the hyperparameters of machine learning algorithms, such as Random forest algorithm，Support vector machine and Multi layer perceptron.
+# HDH:solar-driven humidification-dehumidification (HDH) unit
+ 
