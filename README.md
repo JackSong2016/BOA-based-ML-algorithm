@@ -1,0 +1,2 @@
+# BOA-based-ML-algorithm
+Bayesian optimization algorithm can be used to adjust the super parameters in machine learning algorithms. Here  are some applications of Bayesian Optimization to adjust the super parameters in machine learning algorithms,such as Random forest algorithm，Support vector machine algorithm and Multi layer perceptron algorithm.After Bayesian optimization, the optimal value of super parameter is obtained，the fitting between the predicted value and the actual value is drawn.
